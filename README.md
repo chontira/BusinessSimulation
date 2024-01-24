@@ -1,5 +1,5 @@
 # BusinessSimulation
- path of BADS8714 Data Analytics in Business Simulation
+ part of BADS8714 Data Analytics in Business Simulation
  
 ## Inventory Dashboard
 
